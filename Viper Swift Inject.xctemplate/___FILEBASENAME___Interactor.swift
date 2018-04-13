@@ -21,7 +21,7 @@ protocol ___FILEBASENAMEASIDENTIFIER___OutputProtocol: class {
 
 class ___FILEBASENAME___ {
 
-   var presenter: ___FILEBASENAMEASIDENTIFIER___OutputProtocol!
+   weak var presenter: ___FILEBASENAMEASIDENTIFIER___OutputProtocol!
     
 }
 
