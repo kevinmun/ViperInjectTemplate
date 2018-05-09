@@ -15,6 +15,7 @@ class ___FILEBASENAMEASIDENTIFIER___ {
     private let assembler: Assembler
     
     init(parentAssembler: Assembler) {
-	assembler = Assembler([___VARIABLE_moduleName___Container()], parent: parentAssembler)
+        assembler = Assembler([___VARIABLE_moduleName___Container()], parent: parentAssembler)
+    }
     
 }

@@ -44,6 +44,22 @@
 			<key>Type</key>
 			<string>static</string>
 		</dict>
+		<dict>
+			<key>Description</key>
+			<string>Whether this module contains a nib file</string>
+			<key>Name</key>
+			<string>Adds XIB file</string>
+			<key>NotPersisted</key>
+			<string>true</string>
+			<key>Identifier</key>
+			<string>ownsView</string>
+			<key>Required</key>
+			<string>true</string>
+			<key>Default</key>
+			<string>true</string>
+			<key>Type</key>
+			<string>checkbox</string>
+		</dict>
 	</array>
 </dict>
 </plist>
